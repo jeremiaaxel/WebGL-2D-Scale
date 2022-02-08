@@ -1,5 +1,5 @@
-# Web GL Fundamentals - 2D Rotation
-Kode diambil dan dimodifikasi dari [WebGL 2D Rotation](https://webglfundamentals.org/webgl/lessons/webgl-2d-rotation.html)
+# Web GL Fundamentals - 2D Scale
+Kode diambil dan dimodifikasi dari [WebGL 2D Scale](https://webglfundamentals.org/webgl/lessons/webgl-2d-scale.html)
 ## Prerequisite
 - Tidak dibutuhkan prerequiste apapun.
 ## Cara Menjalankan
